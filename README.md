@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Sleepy 👋<br>I’m a developer focused on Minecraft projects, web design, and building communities. I enjoy creating servers, plugins, and tools while always learning and improving along the way.
+Hey, I’m Sleepy 👋<br>I’m a developer focused on Minecraft multiprojects, web design, and building communities. I enjoy creating servers, plugins, and tools while always learning and improving along the way.
 
 
 ## 🌐 Socials:
