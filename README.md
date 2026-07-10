@@ -32,16 +32,44 @@ I enjoy building high quality plugins, Windows applications, moderation tools, a
 <hr>
 <br>
 
-# 🚀 What I Build
+# 🔨 What I Build
 
-### 🎮 Minecraft
-> Custom Java Plugins • Paper, Spigot & Folia • Anti Cheat Integrations • GUI Systems • Economy Systems
-
-### 💻 Software
-> Windows Desktop Apps • C# & .NET Development • Java Applications • Screensharing Tools • Performance Utilities
-
-### 🌍 Web
-> HTML5 & CSS3 • JavaScript • TypeScript • REST APIs • Responsive Websites
+<table>
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Focus Areas</th>
+  </tr>
+  <tr>
+    <td><b>Minecraft</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Custom%20Java%20Plugins-4F8CFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Paper,%20Spigot%20&%20Folia-4F8CFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Anti--Cheat%20Integrations-4F8CFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/GUI%20Systems-4F8CFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Economy%20Systems-4F8CFF?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Software</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Windows%20Desktop%20Apps-4F8CFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/C%23%20&%20.NET-4F8CFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Java%20Applications-4F8CFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Screensharing%20Tools-4F8CFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Performance%20Utilities-4F8CFF?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5%20&%20CSS3-4F8CFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/JavaScript-4F8CFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-4F8CFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/REST%20APIs-4F8CFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Responsive%20Websites-4F8CFF?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 <hr>
