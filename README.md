@@ -110,65 +110,33 @@ I enjoy building high quality plugins, Windows applications, moderation tools, a
 
 # 🪶 Featured Projects
 
-### 🎮 Minecraft Servers
-* **MaceGen** — Peak Players: 775
-* **ScytheMC** — Peak Players: 202+
-* **MaceSMP** — Peak Players: 185
-
-### 🔧 Spigot
-* **Feather**
-
-### 🛡️ Screensharing Tools
-* **JarInspect**
-* **DLL Activity Monitor**
-
-> **DLL Activity Monitor** @Sleepy 2026 | Version 1.1
-> 
-> *Source code is not fully public yet.*  
-> A lightweight Windows desktop application for monitoring DLL/module activity in real time. DLL Activity Monitor allows you to attach to a running process using its PID, inspect loaded modules, track newly loaded DLLs during runtime, and maintain a persistent activity timeline — all inside a clean and responsive interface. Designed for diagnostics, visibility, and runtime analysis using documented Windows APIs.
-
-**Features**
-
-* **Monitoring**
-  * 🔍 Attach to any running process by PID
-  * 📦 View loaded DLL modules and full file paths
-  * 🆕 Detect newly loaded modules in real time
-  * ⏱️ Live Visible For tracking
-  * 📈 Activity timeline with timestamps
-  * 🔄 Persistent monitoring sessions
-  * 🎯 Optional auto attach for Minecraft
-* **Analysis**
-  * 🔎 Search and filter modules
-  * 🧾 View module signer / digital signature
-  * 🔐 Generate SHA256 hashes
-  * ⚠️ Module risk scoring
-  * 🚫 Ignore Windows/System DLLs
-  * 📊 Activity graphs and statistics
-* **Export**
-  * 📁 Export discovered DLL files from disk
-  * 💾 Save monitoring sessions
-  * 📄 Export session history and module data
-* **UI**
-  * 🌙 Clean modern dark interface
-  * ⚡ Fast refresh without resetting data
-  * 📌 Persistent module timestamps
-  * 🧭 Organized tabs and live status indicators
-
-**Built With**
-* C++17
-* ImGui
-* DirectX 11
-* Windows ToolHelp API
-* `std::filesystem`
-
-**Use Cases**
-* Software debugging
-* Module inspection
-* Runtime diagnostics
-* Development workflows
-* Learning and experimentation
-
-*Notes: Uses documented Windows APIs. Designed for monitoring and diagnostics. No process modification. No memory dumping. Built by @Sleepy.*
+<table>
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Projects & Details</th>
+  </tr>
+  <tr>
+    <td><b>Minecraft Servers</b></td>
+    <td>
+      <b>MaceGen</b> (Peak Players: 775)<br>
+      <b>ScytheMC</b> (Peak Players: 202+)<br>
+      <b>MaceSMP</b> (Peak Players: 185)
+    </td>
+  </tr>
+  <tr>
+    <td><b>Spigot</b></td>
+    <td>
+      <b>Feather</b> (High performance optimization and stability fork)
+    </td>
+  </tr>
+  <tr>
+    <td><b>Screensharing Tools</b></td>
+    <td>
+      <b>JarInspect</b> (Custom screen sharing and scanning utility)<br>
+      <b>DLL Activity Monitor</b> (Lightweight Windows desktop app for monitoring DLL and module activity in real time)
+    </td>
+  </tr>
+</table>
 
 <br>
 <hr>
