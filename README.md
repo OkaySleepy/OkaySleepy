@@ -32,7 +32,7 @@ I enjoy building high quality plugins, Windows applications, moderation tools, a
 <hr>
 <br>
 
-# 🔨 What I Build
+# 🎯 What I Focus on
 
 <table>
   <tr>
@@ -40,7 +40,7 @@ I enjoy building high quality plugins, Windows applications, moderation tools, a
     <th align="left">Focus Areas</th>
   </tr>
   <tr>
-    <td><b>Minecraft</b></td>
+    <td><img src="https://img.shields.io/badge/Minecraft-2B2D31?style=flat-square&logo=minecraft&logoColor=white"/></td>
     <td>
       <img src="https://img.shields.io/badge/Custom%20Java%20Plugins-4F8CFF?style=flat-square"/>
       <img src="https://img.shields.io/badge/Paper,%20Spigot%20&%20Folia-4F8CFF?style=flat-square"/>
@@ -50,7 +50,7 @@ I enjoy building high quality plugins, Windows applications, moderation tools, a
     </td>
   </tr>
   <tr>
-    <td><b>Software</b></td>
+    <td><img src="https://img.shields.io/badge/Software-2B2D31?style=flat-square&logo=windows&logoColor=white"/></td>
     <td>
       <img src="https://img.shields.io/badge/Windows%20Desktop%20Apps-4F8CFF?style=flat-square"/>
       <img src="https://img.shields.io/badge/C%23%20&%20.NET-4F8CFF?style=flat-square"/>
@@ -60,7 +60,7 @@ I enjoy building high quality plugins, Windows applications, moderation tools, a
     </td>
   </tr>
   <tr>
-    <td><b>Web</b></td>
+    <td><img src="https://img.shields.io/badge/Web-2B2D31?style=flat-square&logo=google-chrome&logoColor=white"/></td>
     <td>
       <img src="https://img.shields.io/badge/HTML5%20&%20CSS3-4F8CFF?style=flat-square"/>
       <img src="https://img.shields.io/badge/JavaScript-4F8CFF?style=flat-square"/>
