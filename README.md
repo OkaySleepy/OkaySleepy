@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4F8CFF&height=230&section=header&text=Sleepy&fontSize=56&fontColor=ffffff&desc=Minecraft%20Developer%20|%20Software%20Developer%20|%20Community%20Builder&descFontSize=20&descAlignY=70" alt="header"/>
-
-<img src="assets/banner.png" width="100%" alt="Sleepy Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Sleepy&fontSize=56&fontColor=ffffff&desc=Minecraft%20Developer%20|%20Software%20Developer%20|%20Community%20Builder&descFontSize=20&descAlignY=70" alt="header"/>
 
 <br><br>
 
@@ -33,7 +31,7 @@ I enjoy building high quality plugins, Windows applications, moderation tools, a
 <hr>
 <br>
 
-# 👋 What I Build
+# 🚀 What I Build
 
 ### Minecraft Development
 * Custom Java Plugins
@@ -65,7 +63,7 @@ I enjoy building high quality plugins, Windows applications, moderation tools, a
 <hr>
 <br>
 
-# 👋 Technical Stack
+# 🛠 Technical Stack
 
 <table>
   <tr>
@@ -98,15 +96,9 @@ I enjoy building high quality plugins, Windows applications, moderation tools, a
 <hr>
 <br>
 
-# 👋 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OkaySleepy&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkaySleepy&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
 
 <img width="700" src="https://streak-stats.demolab.com?user=OkaySleepy&theme=tokyonight&hide_border=true"/>
 
@@ -116,38 +108,67 @@ I enjoy building high quality plugins, Windows applications, moderation tools, a
 <hr>
 <br>
 
-# 👋 Featured Projects
+# 🪶 Featured Projects
 
-<table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Description</th>
-  </tr>
-  <tr>
-    <td><b>Feather (Spigot)</b></td>
-    <td>High performance Paper & Spigot fork focused on optimization and stability.</td>
-  </tr>
-  <tr>
-    <td><b>MaceGen</b></td>
-    <td>Custom Minecraft gamemode and server ecosystem.</td>
-  </tr>
-  <tr>
-    <td><b>MaceSMP</b></td>
-    <td>Survival network featuring custom gameplay and community driven features.</td>
-  </tr>
-  <tr>
-    <td><b>JarInspect</b></td>
-    <td>Custom Minecraft screen sharing and scanning utility.</td>
-  </tr>
-  <tr>
-    <td><b>Minecraft Plugins</b></td>
-    <td>Custom plugins built for performance, moderation, and gameplay.</td>
-  </tr>
-  <tr>
-    <td><b>Desktop Applications</b></td>
-    <td>Windows tools and utilities built with C# and .NET.</td>
-  </tr>
-</table>
+### 🎮 Minecraft Servers
+* **MaceGen** — Peak Players: 775
+* **ScytheMC** — Peak Players: 202+
+* **MaceSMP** — Peak Players: 185
+
+### 🔧 Spigot
+* **Feather**
+
+### 🛡️ Screensharing Tools
+* **JarInspect**
+* **DLL Activity Monitor**
+
+> **DLL Activity Monitor** @Sleepy 2026 | Version 1.1
+> 
+> *Source code is not fully public yet.*  
+> A lightweight Windows desktop application for monitoring DLL/module activity in real time. DLL Activity Monitor allows you to attach to a running process using its PID, inspect loaded modules, track newly loaded DLLs during runtime, and maintain a persistent activity timeline — all inside a clean and responsive interface. Designed for diagnostics, visibility, and runtime analysis using documented Windows APIs.
+
+**Features**
+
+* **Monitoring**
+  * 🔍 Attach to any running process by PID
+  * 📦 View loaded DLL modules and full file paths
+  * 🆕 Detect newly loaded modules in real time
+  * ⏱️ Live Visible For tracking
+  * 📈 Activity timeline with timestamps
+  * 🔄 Persistent monitoring sessions
+  * 🎯 Optional auto attach for Minecraft
+* **Analysis**
+  * 🔎 Search and filter modules
+  * 🧾 View module signer / digital signature
+  * 🔐 Generate SHA256 hashes
+  * ⚠️ Module risk scoring
+  * 🚫 Ignore Windows/System DLLs
+  * 📊 Activity graphs and statistics
+* **Export**
+  * 📁 Export discovered DLL files from disk
+  * 💾 Save monitoring sessions
+  * 📄 Export session history and module data
+* **UI**
+  * 🌙 Clean modern dark interface
+  * ⚡ Fast refresh without resetting data
+  * 📌 Persistent module timestamps
+  * 🧭 Organized tabs and live status indicators
+
+**Built With**
+* C++17
+* ImGui
+* DirectX 11
+* Windows ToolHelp API
+* `std::filesystem`
+
+**Use Cases**
+* Software debugging
+* Module inspection
+* Runtime diagnostics
+* Development workflows
+* Learning and experimentation
+
+*Notes: Uses documented Windows APIs. Designed for monitoring and diagnostics. No process modification. No memory dumping. Built by @Sleepy.*
 
 <br>
 <hr>
