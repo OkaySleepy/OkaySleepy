@@ -16,7 +16,7 @@
 <hr>
 <br>
 
-# 👨🏻‍💻 About Me
+# 👋 About Me
 
 I am **Sleepy**, a software developer from Romania focused on Minecraft development, desktop applications, and modern web experiences.
 
@@ -34,28 +34,34 @@ I enjoy building high quality plugins, Windows applications, moderation tools, a
 
 # 🚀 What I Build
 
-### Minecraft Development
-* Custom Java Plugins
-* Paper, Spigot & Folia Development
-* Anti Cheat Integrations
-* GUI Systems
-* Economy Systems
-
-### Software Development
-* Windows Desktop Applications
-* C# & .NET Development
-* Java Applications
-* Minecraft Screensharing Tools
-* Minecraft Plugin Development
-* Performance & Diagnostic Utilities
-
-### Web Development
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* REST APIs
-* Responsive Websites
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎮 Minecraft</h3>
+      • Custom Java Plugins<br>
+      • Paper, Spigot & Folia<br>
+      • Anti Cheat Integrations<br>
+      • GUI Systems<br>
+      • Economy Systems
+    </td>
+    <td width="33%" valign="top">
+      <h3>💻 Software</h3>
+      • Windows Desktop Apps<br>
+      • C# & .NET Development<br>
+      • Java Applications<br>
+      • Screensharing Tools<br>
+      • Performance Utilities
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌍 Web</h3>
+      • HTML5 & CSS3<br>
+      • JavaScript<br>
+      • TypeScript<br>
+      • REST APIs<br>
+      • Responsive Websites
+    </td>
+  </tr>
+</table>
 
 <br>
 <hr>
