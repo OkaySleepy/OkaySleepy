@@ -126,9 +126,9 @@ I enjoy building high quality plugins, Windows applications, moderation tools, a
   <tr>
     <td><b>Minecraft Servers</b></td>
     <td>
-      <b>MaceGen</b> (Peak Players: 775)<br>
+      <b>MaceSMP</b> (Peak Players: 775)<br>
       <b>ScytheMC</b> (Peak Players: 202+)<br>
-      <b>MaceSMP</b> (Peak Players: 185)
+      <b>MaceGen</b> (Peak Players: 185)
     </td>
   </tr>
   <tr>
