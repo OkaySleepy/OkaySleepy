@@ -4,11 +4,8 @@
 
 <br><br>
 
-<a href="https://github.com/OkaySleepy"><img src="https://img.shields.io/github/followers/OkaySleepy?style=for-the-badge&logo=github&label=Followers"/></a>
-<a href="mailto:sleepyxemail@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://discord.gg/macegen"><img src="https://img.shields.io/badge/Discord-MaceGen-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://discord.gg/macesmp"><img src="https://img.shields.io/badge/Discord-MaceSMP-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/WEBSITE-Soon-4F8CFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Soon"/>
 
 </div>
 
