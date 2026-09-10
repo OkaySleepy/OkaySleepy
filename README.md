@@ -3,15 +3,13 @@
   <h3><img src="https://shieldcn.dev/badge/Technical%20Stack.png?variant=secondary&theme=zinc" alt="Technical Stack" /></h3> 
 
   <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://shieldcn.dev/badge/JAVA.svg?size=xs&font=geist-mono&logo=ri%3AFaJava&color=eab308" alt="Java"/>
+    <img src="https://shieldcn.dev/badge/CS.svg?size=xs&font=geist-mono&logo=ri%3ATbBrandCSharp" alt="C#"/>
+    <img src="https://shieldcn.dev/badge/C++.svg?size=xs&theme=cyan&font=geist-mono&logo=cplusplus" alt="C++"/>
+    <img src="https://shieldcn.dev/badge/PYTHON.svg?size=xs&theme=stone&font=geist-mono&logo=python&logoColor=ffffff" alt="Python"/>
+    <img src="https://shieldcn.dev/badge/LUA.svg?size=xs&theme=violet&font=geist-mono&logo=lua&logoColor=ffffff"" alt="Lua"/>
+    <img src="https://shieldcn.dev/badge/JAVASCRIPT.svg?size=xs&theme=slate&font=geist-mono&logo=ri%3ABsJavascript&logoColor=ffffff" alt="JavaScript"/>
+    <img src="https://shieldcn.dev/badge/HTML5.svg?size=xs&theme=orange&font=geist-mono&logo=ri%3AFaHtml5&logoColor=ffffff"/>
   </p>
 
   <h3><img src="https://shieldcn.dev/badge/Ecosystem.png?variant=secondary&theme=emerald&font=jetbrains-mono" </h3>
